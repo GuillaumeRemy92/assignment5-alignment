@@ -1,4 +1,6 @@
-# CS336 Spring 2025 Assignment 5: Alignment
+Code to perform alignement of Qwen 2.5 Math 1.5B in the notebook folder.
+
+## CS336 Spring 2025 Assignment 5: Alignment
 
 For a full description of the assignment, see the assignment handout at
 [cs336_spring2025_assignment5_alignment.pdf](./cs336_spring2025_assignment5_alignment.pdf)
@@ -8,7 +10,7 @@ We include a supplemental (and completely optional) assignment on safety alignme
 If you see any issues with the assignment handout or code, please feel free to
 raise a GitHub issue or open a pull request with a fix.
 
-## Setup
+### Setup
 
 As in previous assignments, we use `uv` to manage dependencies.
 
