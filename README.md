@@ -1,4 +1,4 @@
-Code to perform alignement of Qwen 2.5 Math 1.5B in the notebook folder.
+Code to perform alignment of Qwen 2.5 Math 1.5B as prescribed in the assignment in the notebook folder. More coming soon.
 
 ## CS336 Spring 2025 Assignment 5: Alignment
 
